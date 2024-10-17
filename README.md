@@ -11,7 +11,6 @@ I am a Full Stack Developer specializing in Java, React, Spring, MySQL, and Java
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ## 📈 GitHub Stats
-![Your Contributions Graph](https://github.com/jeffpodmayer/jeffpodmayer/blob/main/github-contribution-grid-snake.svg)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffpodmayer&layout=compact&theme=blue)
 
 ## 📫 Contact Me
