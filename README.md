@@ -1,6 +1,4 @@
-# 👋 Hey I'm Jeff....
-
-## 👨‍💻 About Me
+## 👋 Hey I'm Jeff....
 I am a Full Stack Developer specializing in Java, React, Spring, MySQL, and JavaScript. I have experience with Maven, Hibernate (ORM Framework), Spring Framework (Spring Boot, Spring MVC, and Spring Data JPA), Thymeleaf, JSON & RESTful APIs, MySQL Workbench, and using Git/GitHub for version control. Over the last 10 years, I've gained teamwork and leadership skills in environments requiring quick thinking, self-reliance, and creative problem-solving, which have refined my interpersonal skills. I am excited to be a positive, teamwork-focused, and solutions-oriented member of any technical team!
 
 
@@ -12,12 +10,8 @@ I am a Full Stack Developer specializing in Java, React, Spring, MySQL, and Java
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-## 🚀 Projects
-- [HikerHunger](https://hikerhunger-production.up.railway.app/): A backcountry meal planning application for hikers.
-- [Rendezvous Reminder](link): An application for tracking reservations for the Rendezvous Huts.
-- [Skull King Scoreboard](link): A React application for tracking scores in the Skull King card game.
-
 ## 📈 GitHub Stats
+![Your Contributions Graph](https://github.com/jeffpodmayer/jeffpodmayer/blob/main/github-contribution-grid-snake.svg)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffpodmayer&layout=compact&theme=blue)
 
 ## 📫 Contact Me
