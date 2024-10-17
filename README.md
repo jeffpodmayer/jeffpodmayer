@@ -1,8 +1,7 @@
 # 👋 Hey I'm Jeff....
 
 ## 👨‍💻 About Me
-
-👋 Hey! I am a Full Stack Developer specializing in Java, React, Spring, MySQL, and JavaScript. I have experience with Maven, Hibernate (ORM Framework), Spring Framework (Spring Boot, Spring MVC, and Spring Data JPA), Thymeleaf, JSON & RESTful APIs, MySQL Workbench, and using Git/GitHub for version control. Over the last 10 years, I've gained teamwork and leadership skills in environments requiring quick thinking, self-reliance, and creative problem-solving, which have refined my interpersonal skills. I am excited to be a positive, teamwork-focused, and solutions-oriented member of any technical team!
+I am a Full Stack Developer specializing in Java, React, Spring, MySQL, and JavaScript. I have experience with Maven, Hibernate (ORM Framework), Spring Framework (Spring Boot, Spring MVC, and Spring Data JPA), Thymeleaf, JSON & RESTful APIs, MySQL Workbench, and using Git/GitHub for version control. Over the last 10 years, I've gained teamwork and leadership skills in environments requiring quick thinking, self-reliance, and creative problem-solving, which have refined my interpersonal skills. I am excited to be a positive, teamwork-focused, and solutions-oriented member of any technical team!
 
 
 ## 💼 Skills
