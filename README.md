@@ -12,11 +12,3 @@ I am a Full Stack Developer specializing in Java, React, Spring, MySQL, and Java
 
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffpodmayer&layout=compact&theme=blue)
-
-## 📫 Contact Me
-Feel free to reach out via:
-- Email: [jeff.podmayer@gmail.com](mailto:jeff.podmayer@gmail.com)
-- LinkedIn: [https://www.linkedin.com/in/jeffpodmayer/](https://linkedin.com/in/jeffpodmayer)
-- Let's schedule a time to meet: [Calendly](https://calendly.com/jeff-podmayer/let-s-connect).
-
-## Thanks for visiting and I look forward to getting in touch! 🌟
